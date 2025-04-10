@@ -1,0 +1,6 @@
+path: c:\Users\Aleksandr\Downloads\Detect_fire\yolo_dataset
+train: images/train
+val: images/val
+names:
+  0: fire
+  1: smoke
