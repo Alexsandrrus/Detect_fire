@@ -23,3 +23,6 @@
 from ultralytics import YOLO  
 model = YOLO("best.pt")  
 results = model.predict("input.jpg")  
+
+
+## Git не пропускает большую моель, нужно развернуть локально! Папки появяться в ходе выполнения кода. Результат в папке runs
